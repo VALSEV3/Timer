@@ -1,0 +1,87 @@
+{
+  "configVersion": 1,
+  "timestamp": 1729183989315,
+  "index": "/Timer/index.html",
+  "assetGroups": [
+    {
+      "name": "Timer",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Timer/index.html",
+        "/Timer/main-QXKGMST5.js",
+        "/Timer/manifest.webmanifest",
+        "/Timer/polyfills-QBXW4TBJ.js",
+        "/Timer/styles-56TZWHCK.css",
+        "/Timer/time-162.png"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Timer/caret-down-fill.svg",
+        "/Timer/caret-up-fill.svg",
+        "/Timer/icons/icon-128x128.png",
+        "/Timer/icons/icon-144x144.png",
+        "/Timer/icons/icon-152x152.png",
+        "/Timer/icons/icon-192x192.png",
+        "/Timer/icons/icon-384x384.png",
+        "/Timer/icons/icon-512x512.png",
+        "/Timer/icons/icon-72x72.png",
+        "/Timer/icons/icon-96x96.png",
+        "/Timer/media/bootstrap-icons-OCU552PF.woff",
+        "/Timer/media/bootstrap-icons-X6UQXWUS.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/Timer/caret-down-fill.svg": "5b6c7f39af35b8c6f3a1b9169014886b32033075",
+    "/Timer/caret-up-fill.svg": "1cf79c968706623d2ffd9a3d05a90ffb6bedce3b",
+    "/Timer/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/Timer/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/Timer/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/Timer/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/Timer/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/Timer/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/Timer/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/Timer/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/Timer/index.html": "ef56224a03a01e13313599e7e7e0106c6545e0d3",
+    "/Timer/main-QXKGMST5.js": "c4cb5da81ae99b776c27fc4f6917e762ad9e0601",
+    "/Timer/manifest.webmanifest": "ab743c2c495f5668e3123f14328e485f4a74e6a6",
+    "/Timer/media/bootstrap-icons-OCU552PF.woff": "d5831fd39baf13aff7626e483b9a089730f18604",
+    "/Timer/media/bootstrap-icons-X6UQXWUS.woff2": "020c3c6f9280a315e8425d7f92e15bcd0cdda1b2",
+    "/Timer/polyfills-QBXW4TBJ.js": "af3f8f43edf7836a16374994d799d4288e0e7db5",
+    "/Timer/styles-56TZWHCK.css": "bdffc57e584f988ca3f332f3f10468c7e7c47f81",
+    "/Timer/time-162.png": "061848fd86f0c1ac6fcf251aebf3140204fd9e94"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
